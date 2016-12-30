@@ -16,7 +16,7 @@ The packages adheres to the [SemVer](http://semver.org/) specification, and ther
 
 ## Available
 
-### [`SessionArray`](src/ArraySession.php).
+### [`ReferenceSessionArray`](src/ReferenceArraySession.php).
 
 The implementation of SessionInterface.
 
